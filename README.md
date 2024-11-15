@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?arabellamejorada=DenverCoder1)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arabellamejorada&show_icons=true&hide_border=false" height="150" alt="stats graph"  />
