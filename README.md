@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Ara <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
+<h1 align="left">Hi there, I'm Ara <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"></h1>
 <p align="left">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
 <p align="left">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
