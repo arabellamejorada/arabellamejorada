@@ -2,8 +2,6 @@
 <p align="center">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
 <p align="center">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
----
-
 <p align="center"><b>🌐 Connect with me</b></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/agmmejorada">
@@ -16,7 +14,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
