@@ -1,14 +1,17 @@
-<h3 align="left">Hi there, I'm Ara 🌟</h3>
+<h1 align="left">Hi there, I'm Ara 🌟</h1>
 <p align="left">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
 <p align="left">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
-<p align="left"><b>🌐 Connect with me</b></p>
+<h3 align="left"><b>🌐 Connect with me</b></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/agmmejorada">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arabella.mejorada@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/agmejorada">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white" />
   </a>
 </p>
 
