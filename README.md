@@ -2,8 +2,8 @@
 <h3 align="center">A passionate frontend developer and UI/UX designer from Philippines</h3>
 
 <p align="center">
-🌱 I’m currently learning **Backend Development, Machine Learning, Networking** <br>
-📫 How to reach me **arabella.mejorada@gmail.com**
+🌱 I’m currently learning Backend Development, Machine Learning, Networking <br>
+📫 How to reach me <span classname="bold">arabella.mejorada@gmail.com</span>
 </p>
 
 <h3 align="center">Connect with me:</h3>
