@@ -12,7 +12,6 @@
   </a>
 </p>
 
---
 
 ## ⚡ Technologies
 
@@ -34,7 +33,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
 </p>
 
---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=agmmejorada&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
