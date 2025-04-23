@@ -1,9 +1,9 @@
-<h1 align="left">Hi there, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
-<p align="left">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
-<p align="left">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
+<h1 align="center">Hi there, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
+<p align="center">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
+<p align="center">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
-<h3 align="left"><b>🌐 Connect with me</b></h3>
-<p align="left">
+<h3 align="center"><b>🌐 Connect with me</b></h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/agmmejorada">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -18,7 +18,7 @@
 
 ## ⚡ Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -37,10 +37,10 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app?user=arabellamejorada&theme=omni&border_radius=5&hide_longest_streak=true" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=agmmejorada.agmmejorada" alt="Visitor Badge" />
 </p>
