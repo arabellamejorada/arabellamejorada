@@ -1,9 +1,9 @@
-<h3 align="center">Hi there, I'm Arabella Mejorada — but you can call me Ara 🌟</h3>
-<p align="center">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
-<p align="center">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
+<h3 align="left">Hi there, I'm Ara 🌟</h3>
+<p align="left">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
+<p align="left">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
-<p align="center"><b>🌐 Connect with me</b></p>
-<p align="center">
+<p align="left"><b>🌐 Connect with me</b></p>
+<p align="left">
   <a href="https://www.linkedin.com/in/agmmejorada">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -15,7 +15,7 @@
 
 ## ⚡ Technologies
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -34,10 +34,10 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=agmmejorada&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=agmmejorada.agmmejorada" alt="Visitor Badge" />
 </p>
