@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
-<p align="center">💻 3rd Year Computer Science Student at Ateneo de Davao University</p>
+<p align="center">3rd Year Computer Science Student at Ateneo de Davao University</p>
 <p align="center">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
 <h3 align="center"><b>🌐 Connect with me</b></h3>
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h2 align="center">⚡ Technologies 💻</h2>
+<h2 align="center">⚡ Technologies 💫</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
