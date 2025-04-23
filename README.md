@@ -38,7 +38,7 @@
 
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=arabellamejorada&theme=transparent&hide_border=true" />
+  <img src="(https://nirzak-streak-stats.vercel.app?user=arabellamejorada&theme=rose&border_radius=5&hide_longest_streak=true" />
 </p>
 
 <p align="left">
