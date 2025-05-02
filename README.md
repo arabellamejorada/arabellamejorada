@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
+<h1 align="center">Hey, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
 <p align="center">3rd Year Computer Science Student at Ateneo de Davao University</p>
 <p align="center">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
