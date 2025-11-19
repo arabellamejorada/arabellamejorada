@@ -1,6 +1,6 @@
 <h1 align="center">Kumusta, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
 <p align="center">Director at SAMAHAN Systems Development</p>
-<p align="center">🎨 Front-end Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
+<p align="center">🎨 Web Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
 <h3 align="center"><b>🌐 Connect with me 🌐</b></h3>
 <p align="center">
@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </p>
 
 
