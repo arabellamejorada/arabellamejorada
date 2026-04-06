@@ -38,7 +38,7 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=arabellamejorada&theme=omni&border_radius=5&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com?user=arabellamejorada&theme=default&hide_border=true" alt="arabellamejorada's GitHub Stats" />
 </p>
 
 <p align="center">
