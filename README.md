@@ -1,6 +1,6 @@
 <h1 align="center">Kumusta, I'm Arabella <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40"></h1>
 <p align="center">Director at SAMAHAN Systems Development</p>
-<p align="center">🎨 Web Developer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
+<p align="center">🎨 Software Engineer | UI/UX Designer | Student Leader | DOST Scholar 🤓</p>
 
 <h3 align="center"><b>🌐 Connect with me 🌐</b></h3>
 <p align="center">
